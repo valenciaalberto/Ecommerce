@@ -1,0 +1,6 @@
+{
+  "name": "TechVault Electronics",
+  "description": "Premium electronics store with Next.js structure, Firebase AppHosting deployment readiness, AI shopping assistant, and live Firestore sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
